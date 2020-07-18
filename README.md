@@ -42,6 +42,7 @@ Here are some ideas to get you started:
     <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/vsCode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/vue-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></td>
   </tr>
 </table>
 
