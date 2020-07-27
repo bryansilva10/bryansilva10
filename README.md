@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--💻 Incoming Back End Developer Intern @ Hangar Marketing - Summer 2020 <br>
+-💻 Software Engineer Intern @ Hangar Marketing - Summer 2020 <br>
 -⚙️ Incoming Software Engineer Intern @ LabStats - Winter 2021
 
 ### 🚀 My Skills:
