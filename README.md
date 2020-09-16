@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--💻 Software Engineer Intern @ Hangar Marketing - Summer 2020 <br>
--⚙️ Incoming Software Engineer Intern @ LabStats - Winter 2021
+-💻 Software Engineer @ RedX <br>
+-⚙️  B.S in Software Engineering; Certificate in Web Development - BYU-Idaho 2021
 
 ### 🚀 My Skills:
 <table style="width:100%">
