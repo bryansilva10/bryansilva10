@@ -44,6 +44,18 @@ Here are some ideas to get you started:
     <td><img src="https://img.shields.io/badge/vsCode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/vue-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><img src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/jest-%23CB3837.svg?&style=for-the-badge&logo=jest&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="https://img.shields.io/badge/vuex-%234FC08D.svg?&style=for-the-badge&logo=vuex.js&logoColor=white"></td>
+  </tr>
 </table>
 
 ### 🤝🏽 Let's Connect!
